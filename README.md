@@ -5,11 +5,10 @@ Develop a comprehensive data analytics framework to analyze the financial perfor
 
 ## Data Sources:
 
-Flat File: Financial data from the retailer's accounting systems, including sales revenue, expenses, profit margins, inventory turnover, and cash flow statements.
-Web Scraping: Scraping competitor pricing data, stock market indices, and industry reports from financial news websites and market research platforms.
-API: Integration with financial APIs to retrieve real-time stock prices, economic indicators, and consumer confidence indices.
-Big Data System: Incorporation of macroeconomic data, such as GDP growth rates, inflation rates, and interest rates, to analyze their impact on consumer spending behavior and market dynamics.
-Project Tasks:
+- Flat File: Financial data from the retailer's accounting systems, including sales revenue, expenses, profit margins, inventory turnover, and cash flow statements.
+- Web Scraping: Scraping competitor pricing data, stock market indices, and industry reports from financial news websites and market research platforms.
+- API: Integration with financial APIs to retrieve real-time stock prices, economic indicators, and consumer confidence indices.
+- Big Data System: Incorporation of macroeconomic data, such as GDP growth rates, inflation rates, and interest rates, to analyze their impact on consumer spending behavior and market dynamics.
 
 ## Financial Performance Analysis:
 - Analyze historical financial data to assess the retailer's revenue trends, profit margins, and expense ratios.
